@@ -73,7 +73,7 @@ final class BankManager {
                 departments[bankingTask]?.dispatchSemaphore.wait()
                 defer { departments[bankingTask]?.dispatchSemaphore.signal() }
                 
-                let bankTeller = departments[bankingTask]!.assignBankTeller()!
+                guard let bankTeller = departments[bankingTask]?.assignBankTeller() else { fatalError() }
                 bankTeller.serve(client) {
                     clientCount += 1
                 }
