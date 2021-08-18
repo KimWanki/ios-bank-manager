@@ -18,6 +18,15 @@
   ![bankManager실행화면](https://user-images.githubusercontent.com/57824307/129929649-eedee85e-90be-4e4c-9f57-01c00cae8dd6.gif)
 
 
+
+#### 코드 리뷰 
+--- 
+[Queue, LinkedList, Node 구현, Queue UnitTest](https://github.com/yagom-academy/ios-bank-manager/pull/69)
+
+[BankManager Model Type 구현](https://github.com/yagom-academy/ios-bank-manager/pull/77)
+
+[GCD를 활용한 비동기 프로그래밍](https://github.com/yagom-academy/ios-bank-manager/pull/88)
+
   ### issue & What I learn
 
   ---
