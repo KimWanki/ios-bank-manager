@@ -1,3 +1,4 @@
+![image-20210818220543178](https://user-images.githubusercontent.com/57824307/129989830-b310b5e2-008f-4e53-9f49-ec93fcee0790.png)
 ### 은행 매니저 프로젝트 저장소
 
 
@@ -93,9 +94,10 @@
 
 
   App에서 사용하는 여러 타입 간의 관계를 UML로 표현했습니다.
+  ![image-20210818220543178](https://user-images.githubusercontent.com/57824307/129989837-d9ca7cb0-f69f-4059-a7a1-293a63430291.png)
 
 
-  ![image-20210818220543178](/Users/wankikim/Library/Application Support/typora-user-images/image-20210818220543178.png)
+
 
   ```swift
   class BankManager {
