@@ -1,4 +1,3 @@
-![image-20210818220543178](https://user-images.githubusercontent.com/57824307/129989830-b310b5e2-008f-4e53-9f49-ec93fcee0790.png)
 ### 은행 매니저 프로젝트 저장소
 
 
